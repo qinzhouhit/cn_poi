@@ -1,5 +1,6 @@
 import pickle
 import os
+import sys
 import collections
 
 def city_poi_extract(argv):
